@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tangram puzzle</string>
+    <string name="level">level</string>
+    <string name="accept_level">Accept</string>
+    <string name="cancel_level">Cancel</string>
+    <array name="Level">
+        <item>@drawable/figura</item>
+        <item>@drawable/figura2</item>
+        <item>@drawable/figura3</item>
+        <item>pusto</item>
+    </array>
+</resources>
